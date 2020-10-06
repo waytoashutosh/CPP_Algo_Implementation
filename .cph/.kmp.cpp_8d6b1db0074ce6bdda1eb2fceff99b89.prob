@@ -1,0 +1,1 @@
+{"name":"Local: kmp","url":"c:\\Users\\Ashutosh\\Documents\\GitHub\\C++ Algo Implementation\\kmp.cpp","tests":[{"id":1601985190739,"input":"ababd ababcabcabababe","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ashutosh\\Documents\\GitHub\\C++ Algo Implementation\\kmp.cpp","group":"local","local":true}

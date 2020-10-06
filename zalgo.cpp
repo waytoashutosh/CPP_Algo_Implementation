@@ -5,7 +5,7 @@ void solve()
     string s;
     cin>>s;
     int n = s.size();
-    //we are going to use the string algorithm for string matching
+    //we are going to use the z algorithm for string matching
 
     int l=0,r=0;
     vector<int> z(n);
