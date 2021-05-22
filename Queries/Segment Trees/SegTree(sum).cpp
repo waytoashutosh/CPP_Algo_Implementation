@@ -22,6 +22,10 @@ typedef vector<int> vi;
 typedef vector<long long int> vll;
 
 
+//0 based indexing 
+//working with range [lx,rx)
+//[l,r)
+
 struct segtree{
 
     int size;
